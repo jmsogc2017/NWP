@@ -24,4 +24,4 @@ Note: The word 'NULL' will be displayed in the Next Word Predictor field at the 
 
 Source code located on GitHub - https://github.com/jmsogc2017/NWP
 
-Presentation located on RPubs - http://rpubs.com/jmsogcrpubs2017/NWP4
+Presentation located on RPubs - http://rpubs.com/jmsogcrpubs2017/NWP
