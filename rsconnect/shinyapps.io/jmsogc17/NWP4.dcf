@@ -1,0 +1,12 @@
+name: NWP4
+title: NWP4
+username:
+account: jmsogc17
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 280300
+bundleId: 1220612
+url: https://jmsogc17.shinyapps.io/NWP4/
+when: 1518509421.95159
+asMultiple: FALSE
+asStatic: FALSE
